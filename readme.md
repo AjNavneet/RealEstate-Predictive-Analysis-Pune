@@ -5,8 +5,12 @@
 ### Objective
 In this project, we aim to predict house prices for 200 apartments in Pune city. We will use various regression models, such as Linear Regression, Random Forest, XGBoost, and multi-layer perceptron (MLP) models using scikit-learn and TensorFlow. The goal is to help predict house prices based on different property features.
 
+---
+
 ### Data
 We have a dataset with around 200 rows and 17 variables that influence the target variable, which is the house price.
+
+---
 
 ### Tech Stack
 - Language: `Python`
