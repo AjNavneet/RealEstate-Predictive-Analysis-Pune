@@ -1,4 +1,4 @@
-# Real Estate Price Prediction for Pune(India)
+# Real Estate Price Prediction for Pune Region in India
 
 ## Project Overview
 
@@ -70,25 +70,7 @@ We have a dataset with around 200 rows and 17 variables that influence the targe
 To run this project, follow these steps:
 
 1. Install the required libraries listed in `requirements.txt`.
-2. Execute the code in the `src` folder for each project phase.
+2. Execute the code in the `src` folder.
 
 ---
 
-## Concepts Explored
-
-1. Basic Exploratory Data Analysis (EDA)
-2. Data cleaning and missing data handling
-3. Checking for outliers
-4. Matplotlib and seaborn for data interpretation and advanced visualizations.
-5. Feature Engineering on data for better performance.
-6. Regression techniques like Linear Regression, Random Forest Regressor, XGBoost Regressor, etc.
-7. Grid search and Cross-validation for the given regressor.
-8. Predictions using the trained model.
-9. Metrics such as MSE, R2
-10. Residual plots for train and test data
-11. Feature Importance.
-12. Model comparison
-13. Multi-Layer Perceptron model using the Scikit-learn library.
-14. Multi-Layer Perceptron model using TensorFlow.
-
----
